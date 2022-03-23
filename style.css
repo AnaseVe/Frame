@@ -1,0 +1,12 @@
+#apply {
+    width:150px;
+    color:white;
+    background-color: black;
+}
+#snap {
+    width:150px;
+    background-color:rgb(252, 214, 1);
+    color: black;
+    font-weight:bold;
+    height: 50px ;
+}
